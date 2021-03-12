@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877842367135",
+    "project_id": "flutter-chat-ad863",
+    "storage_bucket": "flutter-chat-ad863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877842367135:android:9ded9c5d711a0bb803d8aa",
+        "android_client_info": {
+          "package_name": "com.motasemzd.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877842367135-p8pr27ka8eh1a12cjln24u6n1nigpqga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEwjaZYdXlqhnhNy0NHhJk73E9a84A0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877842367135-p8pr27ka8eh1a12cjln24u6n1nigpqga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
